@@ -22,3 +22,7 @@ $RECYCLE.BIN/
 .DS_Store
 .Spotlight-V100
 .Trashes
+
+# package files
+package-lock.json
+package.json
